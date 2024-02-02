@@ -1,0 +1,4 @@
+repository "One World RPG Builder 2023@NextGenSoftwareLtd@cloud"
+  path "/"
+    br "/main"
+    co "/main"
